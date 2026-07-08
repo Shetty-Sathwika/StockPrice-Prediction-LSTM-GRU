@@ -1,0 +1,12 @@
+HARDWARE REQUIREMENTS:
+•  Operating System: Windows Only
+•  Processor: i5 and above
+•  Ram: 8 GB and above 
+•  Hard Disk: 25 GB in local drive
+SOFTWARE REQUIREMENTS:
+1) Software: Anaconda
+2) Primary Language: Python
+3) Frontend Framework: Flask
+4) Back-end Framework: Jupyter Notebook
+5) Database: Sqlite3
+6) Front-End Technologies: HTML, CSS, JavaScript and Bootstrap4
